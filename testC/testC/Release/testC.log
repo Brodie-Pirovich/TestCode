@@ -1,0 +1,9 @@
+﻿  Game.c
+C:\Users\bpiro\Documents\Source\testC\testC\Game.c(7,12): warning C4013: 'time' undefined; assuming extern returning int
+C:\Users\bpiro\Documents\Source\testC\testC\Game.c(16,8): warning C4477: 'scanf' : format string '%d' requires an argument of type 'int *', but variadic argument 1 has type 'int'
+  Generating code
+  2 of 16 functions (12.5%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    3 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  testC.vcxproj -> C:\Users\bpiro\Documents\Source\testC\Release\testC.exe

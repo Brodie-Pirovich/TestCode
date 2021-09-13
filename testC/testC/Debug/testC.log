@@ -1,0 +1,6 @@
+﻿  Game.c
+C:\Users\bpiro\Documents\Source\testC\testC\Game.c(7,12): warning C4013: 'time' undefined; assuming extern returning int
+  LinkedList.c
+  Main.c
+  Generating Code...
+  testC.vcxproj -> C:\Users\bpiro\Documents\Source\testC\Debug\testC.exe
